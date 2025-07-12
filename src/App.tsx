@@ -86,7 +86,7 @@ function App() {
               </div>
               <div className="border-l-4 border-purple-500 pl-4">
                 <h3 className="font-semibold text-gray-900 mb-1">안전성</h3>
-                <p className="text-gray-700">IP 고정으로 네이버 알고리즘에도 유리</p>
+                <p className="text-gray-700">IP 고정(내컴퓨터사용)으로 네이버 알고리즘에도 유리</p>
               </div>
               <div className="border-l-4 border-orange-500 pl-4">
                 <h3 className="font-semibold text-gray-900 mb-1">지속성</h3>
@@ -116,7 +116,7 @@ function App() {
                   <span className="text-lg text-gray-500 line-through">15,000원</span>
                   <span className="text-2xl font-bold text-red-600">9,000원</span>
                 </div>
-                <p className="text-sm text-red-600 font-medium">(한시적 할인)</p>
+                <p className="text-sm text-red-600 font-medium">(한시적)</p>
                 <p className="text-sm text-gray-600 mt-2">후기 작성 시, 키워드 글 + 이미지 10장 추가 제공</p>
               </div>
             </div>
