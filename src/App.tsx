@@ -36,9 +36,9 @@ function App() {
           
           {/* Image placeholder */}
           <div className="mb-8">
-            <div className="w-full h-40 bg-gray-100 rounded-lg flex items-center justify-center border-2 border-dashed border-gray-300">
-              <span className="text-gray-500 text-sm">이미지 삽입 영역</span>
-            </div>
+            <div className="w-full h-[300px] rounded-lg overflow-hidden">
+  <img src="/sec2.png" alt="블로그 대행 상담" className="w-full h-full object-cover" />
+</div>
           </div>
           
           <div className="grid gap-4">
@@ -69,9 +69,9 @@ function App() {
           
           {/* Image placeholder */}
           <div className="mb-8">
-            <div className="w-full h-40 bg-white rounded-lg flex items-center justify-center border-2 border-dashed border-gray-300">
-              <span className="text-gray-500 text-sm">이미지 삽입 영역</span>
-            </div>
+            <div className="w-full h-[300px] rounded-lg overflow-hidden">
+  <img src="/sec3.png" alt="블로그 자동포스팅2" className="w-full h-full object-cover" />
+</div>
           </div>
           
           <div className="bg-white rounded-xl p-6 shadow-sm">
@@ -165,9 +165,9 @@ function App() {
           
           {/* Image placeholder */}
           <div className="mb-8">
-            <div className="w-full h-40 bg-white rounded-lg flex items-center justify-center border-2 border-dashed border-gray-300">
-              <span className="text-gray-500 text-sm">이미지 삽입 영역</span>
-            </div>
+            <div className="w-full h-[300px] rounded-lg overflow-hidden">
+  <img src="/sec4.png" alt="블로그 성장 고민" className="w-full h-full object-cover" />
+</div>
           </div>
           
           <div className="bg-white rounded-xl p-6 shadow-sm">
@@ -225,9 +225,9 @@ function App() {
           
           {/* Image placeholder */}
           <div className="mb-8">
-            <div className="w-full h-40 bg-gray-800 rounded-lg flex items-center justify-center border-2 border-dashed border-gray-600">
-              <span className="text-gray-400 text-sm">이미지 삽입 영역</span>
-            </div>
+            <div className="w-full h-[300px] rounded-lg overflow-hidden">
+  <img src="/sec5.png" alt="블로그 성장그래프" className="w-full h-full object-cover" />
+</div>
           </div>
           
           <div className="bg-white rounded-xl p-6">
