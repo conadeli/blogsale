@@ -11,9 +11,9 @@ function App() {
         <section className="px-6 py-16 text-center bg-gradient-to-b from-blue-50 to-white">
           {/* Image placeholder */}
           <div className="mb-8">
-            <div className="w-full h-48 bg-gray-100 rounded-lg flex items-center justify-center border-2 border-dashed border-gray-300">
-              <span className="text-gray-500 text-sm">이미지 삽입 영역</span>
-            </div>
+           <div className="w-full h-48 rounded-lg overflow-hidden">
+  <img src="/sec1.png" alt="블로그 자동포스팅" className="w-full h-full object-cover" />
+</div>
           </div>
           
           <h1 className="text-3xl font-bold text-gray-900 mb-6 leading-tight">
