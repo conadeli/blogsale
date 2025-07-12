@@ -113,7 +113,6 @@ function App() {
               </div>
               <div className="text-center">
                 <div className="flex items-center justify-center space-x-2 mb-2">
-                  <span className="text-lg text-gray-500 line-through">15,000원</span>
                   <span className="text-2xl font-bold text-red-600">9,000원</span>
                 </div>
                 <p className="text-sm text-red-600 font-medium">(한시적)</p>
