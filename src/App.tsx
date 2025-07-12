@@ -130,7 +130,6 @@ function App() {
               </div>
               <div className="text-center">
                 <div className="flex items-center justify-center space-x-2 mb-2">
-                  <span className="text-lg text-gray-500 line-through">220,000원</span>
                   <span className="text-2xl font-bold text-green-600">170,000원</span>
                 </div>
                 <p className="text-sm text-gray-600 mt-2">후기 작성 시, 원고 2건 + 이미지 추가 제공</p>
@@ -147,7 +146,6 @@ function App() {
               </div>
               <div className="text-center">
                 <div className="flex items-center justify-center space-x-2 mb-2">
-                  <span className="text-lg text-gray-500 line-through">420,000원</span>
                   <span className="text-2xl font-bold text-purple-600">290,000원</span>
                 </div>
                 <p className="text-sm text-gray-600 mt-2">후기 작성 시, 원고 2건 + 이미지 추가 제공</p>
