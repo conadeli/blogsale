@@ -115,7 +115,6 @@ function App() {
                 <div className="flex items-center justify-center space-x-2 mb-2">
                   <span className="text-2xl font-bold text-red-600">9,000원</span>
                 </div>
-                <p className="text-sm text-red-600 font-medium">(한시적)</p>
                 <p className="text-sm text-gray-600 mt-2">후기 작성 시, 키워드 글 + 이미지 10장 추가 제공</p>
               </div>
             </div>
