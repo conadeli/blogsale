@@ -106,7 +106,7 @@ function App() {
             {/* A. 맛보기 서비스 */}
             <div className="border-2 border-blue-200 rounded-xl p-6 bg-blue-50">
               <div className="text-center mb-4">
-                <h3 className="text-xl font-bold text-blue-900 mb-2">A. 맛보기 서비스</h3>
+                <h3 className="text-xl font-bold text-blue-900 mb-2">A. 1회 단품형</h3>
                 <div className="text-gray-700 mb-3">
                   <p>글 1건 + 자동입력기 1일 + 이미지 10장</p>
                 </div>
