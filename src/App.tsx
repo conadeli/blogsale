@@ -78,7 +78,7 @@ function App() {
             <div className="space-y-4">
               <div className="border-l-4 border-blue-500 pl-4">
                 <h3 className="font-semibold text-gray-900 mb-1">제공</h3>
-                <p className="text-gray-700">글 + 자동입력기 + 이미지</p>
+                <p className="text-gray-700">글 + 입력기 + 이미지</p>
               </div>
               <div className="border-l-4 border-green-500 pl-4">
                 <h3 className="font-semibold text-gray-900 mb-1">간편함</h3>
@@ -108,7 +108,7 @@ function App() {
               <div className="text-center mb-4">
                 <h3 className="text-xl font-bold text-blue-900 mb-2">A. 1회 단품형</h3>
                 <div className="text-gray-700 mb-3">
-                  <p>글 1건 + 자동입력기 1일 + 이미지 10장</p>
+                  <p>글 1건 + 입력기 1일 + 이미지 10장</p>
                 </div>
               </div>
               <div className="text-center">
@@ -124,7 +124,7 @@ function App() {
               <div className="text-center mb-4">
                 <h3 className="text-xl font-bold text-green-900 mb-2">B. 2주 대행</h3>
                 <div className="text-gray-700 mb-3">
-                  <p>글 14건 + 자동입력기 17일</p>
+                  <p>글 14건 + 입력기 17일</p>
                 </div>
               </div>
               <div className="text-center">
@@ -140,7 +140,7 @@ function App() {
               <div className="text-center mb-4">
                 <h3 className="text-xl font-bold text-purple-900 mb-2">C. 4주 대행</h3>
                 <div className="text-gray-700 mb-3">
-                  <p>글 28건 + 자동입력기 30일</p>
+                  <p>글 28건 + 입력기 30일</p>
                 </div>
               </div>
               <div className="text-center">
